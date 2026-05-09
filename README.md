@@ -100,6 +100,8 @@ Aplicar técnicas de levantamento de requisitos, modelagem UML e análise de des
 
 Projeto desenvolvido na disciplina de **Fundamentos da Engenharia de Software**, durante o **3º período de Engenharia de Software** na **Faculdade de Nova Serrana (FANS)**.
 
-## Autor
+## Autores
 
 - Matheus Pereira
+- Phellipe Harry
+- Augusto Batista
