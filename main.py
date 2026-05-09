@@ -6,8 +6,6 @@ abordagens de soma (recursiva e iterativa) utilizando exatamente a mesma
 massa de dados, repete o experimento 200 vezes, mede o tempo de execução,
 compara os resultados e exporta tudo para um arquivo TXT.
 
-Autor : Seu Nome
-Data  : 2026-05-09
 """
 
 import sys
